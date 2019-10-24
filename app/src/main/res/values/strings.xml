@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">Address:
+        \nNo. 321, Jalan 17A, Taman Abdul Rahman, 56300 Setapak.
+    \n\nEducation:
+        \n\t## Kolej Universiti Tunku Abdul Rahman
+        \n\t\t\t\t** Diploma in Computer Science and Computer
+        \n\t\t\t\t\tMathematics
+        \n\t\t\t\t** Bachelor of Computer Science (HONS) in
+        \n\t\t\t\t\tSoftware Engineering
+    \n\nWorking Experience:
+        \n\t## Waitress Restaurant Man Ting Yuan
+        \n\t## Promoter The Store Teluk Intan
+    </string>
+</resources>
